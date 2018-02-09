@@ -95,7 +95,7 @@ An open access license allows a creator to pre-emptively grant permission to eve
 
 ## Some open access licenses 
 
-![[Wikipedia. Used under CC-BY](https://en.wikipedia.org/wiki/Creative_Commons_license) ](images/cc_licenses.png)^[Wikipedia. Used under CC-BY]
+![[Wikipedia. Used under CC-BY](https://en.wikipedia.org/wiki/Creative_Commons_license) ](images/cc_licenses.png)^[Wikipedia. Used under CC-BY-SA]
 
 Anything from CC-BY-SA up is compatible with Wikipedia
 
@@ -121,7 +121,14 @@ Anything from CC-BY-SA up is compatible with Wikipedia
 ![](images/journals.pdf)
 
 
+## Recap: copyright and open access
 
+- Copyright happens by default, and creates barriers to sharing knowledge.
+- Open access licenses allow content to be freely shared.
+- Not all open access licenses are compatible with each other (or Wikipedia)
+	- Content under the wrong license gets deleted from Wikipedia with extreme prejudice.
+	- Check the license on any content you want to use.
+- There is a lot of good open access content out there which you ***can*** use in your article.
 
 
 
@@ -142,7 +149,7 @@ Anything from CC-BY-SA up is compatible with Wikipedia
 - Wikipedia is the encyclopedia.
 - Wikimedia Commons is a repository of open access images.
 
-![](images/wp_commons.pdf)^[Wikimedia Foundation. Used under CC-BY]
+![](images/wp_commons.pdf)^[Wikimedia Foundation. Used under CC-BY-SA]
 
 
 
@@ -152,7 +159,7 @@ Anything from CC-BY-SA up is compatible with Wikipedia
 - But Wikipedia has special rules for fair use of non-free content.
 	- In general this is bad and should be avoided.
 	- Definitely avoid if you don't know exactly what you're doing!
-- It is much bettehttps://en.wikipedia.org/wiki/Wikipedia:WikiProject_Computational_Biology/ISCB_competition_announcement_2018r to upload your images to Wikimedia Commons.
+- It is much better to upload your images to Wikimedia Commons.
 - They will be immediately visible, and you can use them directly in your Wikipedia article.
 
 
@@ -188,7 +195,7 @@ Anything from CC-BY-SA up is compatible with Wikipedia
 
 ## Describe the image 
 
-![](images/release.png)
+![](images/describe.png)
 
 
 
@@ -209,6 +216,13 @@ Anything from CC-BY-SA up is compatible with Wikipedia
 ![](images/hic_image.png)
 
 [https://en.wikipedia.org/wiki/Chromosome_conformation_capture#Data_analysis](https://en.wikipedia.org/wiki/Chromosome_conformation_capture#Data_analysis)
+
+
+## Recap: uploading to Wikipedia
+
+- Use Wikimedia Commons, not Wikipedia.
+- Practice uploading images that aren't your main assignment image before the deadline so it goes more smoothly
+	- Find free images in journals.
 
 
 # Taking Your Assignment Further
@@ -237,12 +251,12 @@ Anything from CC-BY-SA up is compatible with Wikipedia
 
 ## Did you know? (Be famous for a day!)
 
-![](images/wp_main_page.png)^[Wikipedia front page. Used under CC-BY]
+![](images/wp_main_page.png)^[Wikipedia front page. Used under CC-BY-SA]
 
 
 ## Did you know? (Be famous!)
 
-![](images/wp_dyk.png)^[Wikipedia front page. Used under CC-BY]
+![](images/wp_dyk.png)^[Wikipedia front page. Used under CC-BY-SA]
 
 
 ## Getting your article onto DYK
@@ -261,11 +275,18 @@ Anything from CC-BY-SA up is compatible with Wikipedia
 
 ## And more: Wikiprojects 
 
-![](images/wp_cb.png)^[Wikipedia. Used under CC-BY]
+![](images/wp_cb.png)^[Wikipedia. Used under CC-BY-SA]
 
 ![](images/wp_gen.png)
 
 ![](images/wp_mcb.png)
+
+
+
+## Join (or start) an editathon at your favourite conference
+
+![](images/ISMB_editathon.jpg)^[Wikipedia. Used under CC-BY-SA]
+
 
 
 ## PLoS Computational Biology and PLoS Genetics topic pages
@@ -282,3 +303,17 @@ A topic page is a review article you write on a topic that is not well covered o
 More information at [http://collections.plos.org/topic-pages](http://collections.plos.org/topic-pages) 
 
 2/11 topic pages have come from UBC!
+
+
+## Recap: Taking your article further
+
+- ***Enter the ISCB-Wikipedia competition*** to stand a (good) chance of winning cash!
+- ***Nominate your article for DYK*** to have your work on the front page of one of the most trafficked websites on the internet.
+- ***Join a WikiProject*** to stay involved.
+- ***Write a topic page*** to get an easy review article and save time on thesis writing. 
+- ***Join (or start) an editathon*** at your favourite conference.
+
+
+## Reminder: slides are online
+
+[https://github.com/oneillkza/MedG505_Wikipedia](https://github.com/oneillkza/MedG505_Wikipedia)
